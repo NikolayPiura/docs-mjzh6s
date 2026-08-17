@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-x0zkj3.dingdongtogel34cop.cfd/sitemap.xml
